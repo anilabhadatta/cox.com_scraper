@@ -1,4 +1,4 @@
-# cox.com_scraper
+# Cox.com Selenium Scraper
 
 A python selenium based scraper used to scrap cox.com business plans.
 
